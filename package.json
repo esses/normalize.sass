@@ -1,11 +1,12 @@
 {
   "name": "normalize.sass",
-  "version": "3.0.3-1",
+  "version": "3.0.3-2",
   "description": "Normalize.css converted to SASS as a node packaged module",
   "keywords": ["sass","normalize"],
   "files": [
     "LICENSE.md",
-    "_normalize.sass"
+    "_normalize.sass",
+    "normalize.js"
   ],
   "homepage": "https://github.com/esses/normalize.sass",
   "repository": {
