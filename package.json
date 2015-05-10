@@ -1,0 +1,21 @@
+{
+  "name": "normalize.sass",
+  "version": "3.0.3",
+  "description": "Normalize.css converted to SASS as a node packaged module",
+  "keywords": ["sass","normalize"],
+  "files": [
+    "LICENSE.md",
+    "_normalize.sass"
+  ],
+  "homepage": "https://github.com/esses/normalize.sass",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/esses/normalize.sass.git"
+  },
+  "main": "normalize.sass",
+  "contributors": [
+    "Nicolas Gallagher",
+    "Steven Chen"
+  ],
+  "license": "MIT"
+}
