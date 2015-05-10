@@ -1,6 +1,6 @@
 {
   "name": "normalize.sass",
-  "version": "3.0.3",
+  "version": "3.0.3-1",
   "description": "Normalize.css converted to SASS as a node packaged module",
   "keywords": ["sass","normalize"],
   "files": [
