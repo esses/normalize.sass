@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git://github.com/esses/normalize.sass.git"
   },
-  "main": "normalize.sass",
+  "main": "normalize.js",
   "contributors": [
     "Nicolas Gallagher",
     "Steven Chen"
